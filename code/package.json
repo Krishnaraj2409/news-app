@@ -1,0 +1,14 @@
+
+{
+  "dependencies": {
+    "config": "^3.3.12",
+    "dedupe": "^4.0.3",
+    "deprecate": "^1.1.1",
+    "diff": "^7.0.0",
+    "docs": "^0.3.2-canary.0",
+    "doctor": "^0.1.26"
+  }
+}
+
+
+
